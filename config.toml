@@ -12,20 +12,7 @@ disableKinds = ["taxonomy", "term"]
   # name = "Roudy"
   # headline = "Just Roudy."
   # image = "img/author.jpg"  # path relative to static directory
-
-  links = [
-    # { email = "mailto:sader@roudy.xyz" },
-    # { flickr = "https://www.flickr.com/photos/username/" },
-    # { foursquare = "https://foursquare.com/username" },
-    # { github = "https://github.com/Roxdyyy" },
-    # { instagram = "https://instagram.com/roxdyy" },
-    # { reddit = "https://reddit.com/user/RoudyLB" },
-    # { snapchat = "https://snapchat.com/add/embraerrr" },
-    # { threads = "https://threads.com/roxdyyy" },
-    # { tiktok = "https://tiktok.com/@roxdy" },
-    # { twitter = "https://twitter.com/MEA_RXA" },
-  ]
-
+  
   name = "Roudy"
   headline = "Roudy."
   image = "author.jpg"

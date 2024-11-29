@@ -26,6 +26,17 @@ disableKinds = ["taxonomy", "term"]
     # { twitter = "https://twitter.com/MEA_RXA" },
   ]
 
+  name = "Roudy"
+  headline = "Roudy."
+  image = "author.jpg"
+  links = [
+    { link = { href = "https://tiktok.com/@roxdy", text = "TikTok", icon = "tiktok" } },
+    { link = { href = "https://instagram.com/roxdyy", text = "Instagram", icon = "Instagram" } },
+    { link = { href = "https://mymun.com/profile/294920", text = "MyMUN Profile", icon = "whatsapp" } },
+    { github = "https://github.com/Roxdyyy" },
+    { x = "https://x.com/MEA_RXA" },
+  ]
+
 [module]
   [module.hugoVersion]
     extended = false
